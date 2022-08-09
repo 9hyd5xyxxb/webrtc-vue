@@ -2,7 +2,7 @@
   <div class="about">
     <h1>This is an about page</h1>
 
-    <vue-webrtc ref="webrtc" width="100%" roomId="sample-room"></vue-webrtc>
+    <!-- <vue-webrtc ref="webrtc" width="100%" roomId="sample-room"></vue-webrtc> -->
   </div>
 </template>
 
